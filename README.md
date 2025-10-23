@@ -1,5 +1,4 @@
 # abra2
-just me
 git init
 git add README.md
 git commit -m "My first commit"
